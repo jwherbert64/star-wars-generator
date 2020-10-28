@@ -17,7 +17,7 @@
           </div>
         </div>
 
-        <div class="nose">
+        <div class="nos noselol">
         </div>
 
         <div class="mouth">
